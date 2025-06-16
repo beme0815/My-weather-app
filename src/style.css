@@ -1,5 +1,5 @@
 body {
-  background-color: lightgreen;
+  background-color: mintcream;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -13,4 +13,23 @@ body {
   padding: 30px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.1);
   border-radius: 40px;
+}
+
+.search-form-input {
+  background-color: lightgrey;
+  border: none;
+  border-radius: 10px;
+  max-width: 80%;
+  padding: 15px 20px;
+  font-size: 18px;
+}
+
+.search-form-button {
+  background-color: lightgrey;
+  padding: 15px 20px;
+  border: none;
+  margin-left: 5px;
+  max-width: 80%;
+  border-radius: 10px;
+  font-size: 18px;
 }
