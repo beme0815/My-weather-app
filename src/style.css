@@ -31,7 +31,7 @@ header {
 }
 
 .search-form-input {
-  background-color: lightgrey;
+  background-color: #c1dfc4;
   border: none;
   border-radius: 10px;
   max-width: 80%;
@@ -41,7 +41,7 @@ header {
 }
 
 .search-form-button {
-  background-color: lightgrey;
+  background-color: rgb(30, 136, 87);
   padding: 15px 20px;
   border: none;
   margin-left: 5px;
